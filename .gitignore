@@ -1,0 +1,12 @@
+*.qmlc
+*.o
+*.jsc
+*.pro.user*
+*.qmlproject.user*
+*~
+build
+*.build
+*.buildinfo
+*.changes
+*.deb
+*.ddeb
